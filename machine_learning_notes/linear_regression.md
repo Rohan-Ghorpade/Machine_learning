@@ -34,3 +34,8 @@ In linear regression, the best-fit line is the straight line that best represent
 
 *Chatgpt*  
 A best-fit line is the straight line that passes through the data in such a way that the overall prediction error is as small as possible.
+
+### 1. Goal of the Best-Fit Line  
+The goal of linear regression is to find a straight line that minimizes the error (the difference) between the observed data points and the predicted values. This line helps us predict the dependent variable for new, unseen data.
+
+<img src="./images/linear_regression/observed_value.webp" width="300">
